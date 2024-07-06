@@ -1,3 +1,4 @@
+# BASIC CONCEPTS
 ## Flash:
 *Purpose:* Non-volatile memory for storing firmware permanently.
 *Usage:* Holds sections like .text (executable code) and .rodata (read-only data).
